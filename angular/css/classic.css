@@ -1,0 +1,24 @@
+body{
+    background-color: whitesmoke;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+
+.navbar{
+    background-color: white;
+    height: 40px;
+    padding: 0;
+}
+.navbar > .container-fluid > .navbar-header > .navbar-brand{
+    color: black !important;
+}
+
+.navbar .navbar-toggle .icon-bar{
+    background-color: black !important;
+}
+.navbar-default .navbar-collapse{
+    background-color: white !important;
+    border: none !important;
+}
