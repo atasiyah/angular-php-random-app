@@ -1,3 +1,3 @@
-# angular-rehber
-AngularJS Rehberi Reposu
-atasiyah.com için herkese açık hazırlanmaktadır.
+# angular-php-random-app
+Random App with AngularJS + PHP
+for atasiyah.com
